@@ -3,7 +3,7 @@
 **_You should already have squidnodes_** and it is assumed you know what and how to use squidnodes
 
 Installing is *simular* to squidnodes,
-1. Download the *Eyelids addon.blend* file from our distribution page here: https://github.com/PastaOwO/Squidnodes
+1. Download the *Eyelids addon.blend* file
 2. Save the file to somewhere that you can access easily
 3. Either create a new blend file, or open an existing one
 4. Under the "File" dropdown menu, select "Append"
