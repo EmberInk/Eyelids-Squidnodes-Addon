@@ -1,2 +1,8 @@
 1.0
 Uploaded to Github
+
+1.1
+Bugfixes
+-Fixed issue where the eyelids were transperent when rendering in cycles mode
+Qol
+-Made the Closed-Open work smoother when going from 1-2
