@@ -1,6 +1,6 @@
 # Welcome to the unoffical Eyelids Squidnodes addon!
 
-**_You should already have squidnodes_** and it is assumed you know what and how to use squidnodes
+**_You don't need to have squidnodes_** but it is assumed you do
 
 Installing is *simular* to squidnodes,
 1. Download the *Eyelids addon.blend* file
