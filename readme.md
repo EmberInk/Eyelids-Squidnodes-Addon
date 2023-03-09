@@ -12,3 +12,5 @@ Installing is *simular* to squidnodes,
 7. Select **_only_ Eyelids(squidnodes addon)** inside the folder and tick the "Fake User" box on the right hand side of the file dialog 
 8. Click "Append"
 9. Now you can add it in just like the other squidnodes
+
+**note:** There are no input textures 
